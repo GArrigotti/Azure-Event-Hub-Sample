@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Azure Connection Sample": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "DEVELOPMENT",
+        "ASPNET_ENVIRONMENT": "DEVELOPMENT"
+      }
+    }
+  }
+}
